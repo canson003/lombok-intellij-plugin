@@ -29,6 +29,87 @@ vvDLP UPLOAD TEST DLP UPLOAD TEST vDLP UPLOAD TEST vvvDLP UPLOAD TEST DLP UPLOAD
 DLP UPLOAD TEST 
 DLP UPLOAD TEST 
 DLP UPLOAD TEST 
+*************************************************************************
+********
+***HELLO THIS IS A SAMPLE DLP TEST FILE FOR TESTING DLP RULES USING REAL
+DATA.***
+*************************************************************************
+********
+SSSSSSGM Secret
+GM SecretWWWW
+SSSSSSSSSSSSSSGM SecretWWWWWWWWWWW
+GM Secret
+GMYSecret
+What is McAfee Host Data Loss Prevention?
+McAfee Host Data Loss Prevention software is a content-based agent
+solution that inspects enterprise users’ actions concerning sensitive
+content in their own work environment, their computers. In Version 2.0,
+device management was add
+other plug and play devices. Device classes and device definitions are
+used to define device rules.
+Removable storage device rules offer additional functionality to set the
+device as read-only and prevent writing data to the device.
+Assignment groups
+Assignment groups apply specific reaction rules to different groups,
+users and computers in the enterprise.
+Policies and policy deployment
+A policy is the combination of tagging rules, reaction rules,
+definitions, and assignment groups. Policies are deployed by ePolicy
+Orchestrator to the enterprise’s managed computers (computers with a DLP
+Agent installed).
+Monitoring
+Event monitoring — The DLP Monitor allows administrators to view agent
+events as they are received.
+Evidence collection — If reaction rules are defined to collect evidence,
+a copy of the tagged data is linked to the specific event. This
+information can help determine the severity or exposure of the event.
+Whitelists
+Whitelists are collections of items that you want the system to ignore.
+McAfee Host Data Loss Prevention uses three different types of
+whitelists:
+Content
+The whitelist folder contains text files defining content (typically
+boilerplate) that is not tagged and restricted. The main purpose of this
+is to improve the efficiency of the tagging process by skipping standard
+content that does not need to be protected.
+Plug and play devices
+Some plug and play devices do not handle device management well.
+Attempting to manage them leads to computer system crashes or other
+serious problems. Whitelisted plug and play devices are automatically
+excluded when a policy is applied.
+Printers
+To prevent printing of confidential data, the DLP Agent replaces the
+original printer driver with a proxy driver that intercepts printing
+operations and passes them through to the original driver. In some cases
+printer drivers cannot work in this architecture, causing the printer to
+stop responding. Whitelisted printers are excluded from the proxy driver
+installation process.
+How tags are used to classify content
+Tags give you a method for classifying content and re-using that
+classification . Tagging rules assign tags to content from specific
+applications or locations, or match content against predefined patterns
+or keywords. Once assigned, the tag stays with the content as it is moved 
+or copied, or included in or attached to other files or file types . Two
+types of tags are available:
+ - Standard tags — Used for location- and application-based tagging
+rules.
+ - Content tags — Used for content-based tagging rules.
+Applications and how to use them
+Importing an applications list and creating application groups are
+efficient ways of handling all application related tagging and reaction
+rules. System administrators can import a list of all relevant
+applications available within the enterprise, create different
+application groups based on their needs, and implement these groups with
+relevant rules to maintain policies.
+Enterprise Applications List — The Enterprise Applications List is a
+comprehensive list of applications used by the enterprise. You can scan
+for new applications and merge them with the existing list, edit the
+list, and group by any column.
+Application Groups — You can create groups of applications from the
+Enterprise Applications List, which allows you to customize rules about
+specific applications and apply the rules efficiently. Tagging rules and
+reaction rules always refer to application groups rather than individual
+applications. 
 DLP UPLOAD TEST 
 DLP UPLOAD TEST DLP UPLOAD TEST DLP UPLOAD TEST 
 DLP UPLOAD TEST 
