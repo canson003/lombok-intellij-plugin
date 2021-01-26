@@ -139,7 +139,7 @@ Tested and supports IntelliJ versions: 2018.X, 2019.X, 2020.1 and 2020.2.1+, 202
 Last support for IntelliJ 2017.1, 2017.2 and 2017.3 by plugin version 0.32!
 
 Last support for IntelliJ 2016.2 and 2016.3 by plugin version 0.31!
-
+vvvvvvvvvvvv
 Last support for IntelliJ 15.0.6 and 2016.1 by plugin version 0.19!
 
 Last support for IntelliJ 14.1.7 by plugin version 0.14!
