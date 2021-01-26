@@ -15,6 +15,8 @@ Provides support for lombok annotations to write great Java code with IntelliJ I
 
 **Last version (0.34) released on 17.01.2021**
 
+DLP UPLOAD TEST 
+
 ---
 :collision: **Breaking News: Starting with IntelliJ version 2020.3 lombok plugin will be integrated and included in IntelliJ by default!.** :collision:
 
