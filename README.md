@@ -47,6 +47,139 @@ Provides support for lombok annotations to write great Java code with IntelliJ I
 Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
 
 **Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
+
+Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
+
+**Last version (0.34) released on 17.01.2021**## Plugin for [IntelliJ IDEA](http://plugins.jetbrains.com/plugin/6317-lombok-plugin) to support [Lombok](https://projectlombok.org) annotations.
 
 Provides support for lombok annotations to write great Java code with IntelliJ IDEA.
 
